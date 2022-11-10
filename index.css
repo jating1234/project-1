@@ -1,0 +1,22 @@
+.jatin{
+ color: black;
+ 
+}
+.p1{
+    color:rgb(77, 61, 61);
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+.container1{
+     display: flex;
+}
+.charu{
+    outline-style: solid;
+    margin: 90px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 10px;
+}
